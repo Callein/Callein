@@ -15,7 +15,7 @@ My name is Somyeong Jeon :)
 
 ### Education
 
-* [Handong Grobal Univ. Computer Science]https://www.handong.edu/major/college/computer-electric/intro/) - AI computer science (2020.3. ~ Present)
+* [Handong Grobal Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) - AI computer science (2020.3. ~ Present)
 * DaeDong High School, Busan (2017.3. ~ 2020.2.)
 
 <!-- ### Researches
