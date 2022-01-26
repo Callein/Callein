@@ -10,6 +10,9 @@ My name is Somyeong Jeon :)
 <a href="https://instagram.com/sm_jeon1/">
     <img src="https://img.shields.io/badge/instagram-dc2743.svg?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://velog.io/@somy-john">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=81C147&logo=Velog&logoColor=20C997&label="/>
+</a>
 
 ---
 
