@@ -4,17 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:196E4B,10:2f8f67,30:5eb592,75:93d9bd,100:2f8f67&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
 
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/callein"
-      width="600"
-      height="300"
-    />
-  </a>
-
-
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors~+🌊" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+🌊" alt="Typing SVG" /></a>
 <br>
 <br>
 
@@ -126,7 +117,29 @@
 
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/callein"
+      width="600"
+      height="300"
+    />
+  </a>
+ </div>
 
+<h2 align="center">🦋 Stats 🦋</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=callein&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=callein&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ 
+  <a href="https://solved.ac/wjsthaud/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsthaud" width="390" alt="Solved.ac Profile">
+</a>
+</div>
+
+---
 <!-- <div align="center"> -->
 ### Github stats
 
