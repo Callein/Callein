@@ -1,10 +1,29 @@
-### Hi 👋
+<div align="center">
+<a id="readme-top"></a>
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:196E4B,10:2f8f67,30:5eb592,75:93d9bd,100:2f8f67&height=100&section=header&text=&fontSize=0" width="100%"/>
+<br><br>
 
-My name is Somyeong Jeon :)
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/callein"
+      width="600"
+      height="300"
+    />
+  </a>
+
+
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors~+🌊" alt="Typing SVG" /></a>
+<br>
+<br>
+
+----
+
 
 ### Find Me
 
-<a href="https://github.com/Somy-John?tab=profile">
+<a href="https://github.com/callein?tab=profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=github&style=for-the-badge" alt="GitHub Badge" />
 </a>
 <a href="https://instagram.com/sm_jeon1/">
@@ -111,13 +130,17 @@ My name is Somyeong Jeon :)
 <!-- <div align="center"> -->
 ### Github stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Somy-John&show_icons=true&theme=default&hide_border=false&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=callein&show_icons=true&theme=default&hide_border=false&locale=en)
 
 <!-- <div align="center"> -->
 ### Most Common Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somy-John&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact)
 
 ---
 
-![Counter](https://komarev.com/ghpvc/?username=Somy-John&style=flat-square&label=Profile%20Views)
+![Counter](https://komarev.com/ghpvc/?username=callein&style=flat-square&label=Profile%20Views)
+
+<br>
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eb592,10:93d9bd,30:5eb592,75:2f8f67,100:136342&height=40&section=footer&text=&fontSize=0" width="100%"/>
