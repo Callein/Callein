@@ -7,7 +7,6 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+🌊" alt="Typing SVG" /></a>
 <br>
-<br>
 
 ----
 
@@ -122,7 +121,6 @@ Smart Application Contest, Grand Award
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact)
 
 --- -->
-
 <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/callein"
@@ -130,10 +128,11 @@ Smart Application Contest, Grand Award
       height="300"
     />
 </a>
-    
-![Counter](https://komarev.com/ghpvc/?username=callein&style=flat-square&label=Profile%20Views)
+
 </div>
 
 <br>
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eb592,10:93d9bd,30:5eb592,75:2f8f67,100:136342&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd)
