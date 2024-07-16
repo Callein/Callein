@@ -53,7 +53,7 @@
 ###### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,dart" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,dart" />
   </a>
 </p>
 
