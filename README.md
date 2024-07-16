@@ -12,7 +12,7 @@
 ----
 
 
-### Find Me
+<!-- ### Find Me
 
 <a href="https://github.com/callein?tab=profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=github&style=for-the-badge" alt="GitHub Badge" />
@@ -24,29 +24,23 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=81C147&logo=Velog&logoColor=20C997&label="/>
 </a>
 
----
+--- -->
 
 ### Education
 
-* [Handong Grobal Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) - AI computer science (2020.3. ~ Present)
-* DaeDong High School, Busan (2017.3. ~ 2020.2.)
+[Handong Grobal Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) - AI computer science (2020.3. ~ Present)  
 
-<!-- ### Researches
+DaeDong High School, Busan (2017.3. ~ 2020.2.)
 
-* **Deep learning-based anomaly detection of bone scan images.** Dongha Kim, Chongwon Pae, Maeng-keun Oh, Seungwoo Cho, and Hae-Jeong Park. ICBHI2021, Seoul -->
+----
 
-<!-- ### Academy
-
-* [MoNET NeuroImage Lab](http://neuroimage.yonsei.ac.kr) (2021.8. ~ Present)
-* [YAI](https://www.facebook.com/yonseiAI) (Yonsei Univ. AI Conference) Organizer (2021.7. ~ Present)
-* Morgorithm (Yonsei Univ. ICPC Club) Organizer (2021.8. ~ Present)
-* Yonsei IHEI Workstation (2021.4. ~ Present) -->
     
 ### Awards
 
-* Freshman Self-made Software Contest, Top Award
-* Smart Application Contest, Grand Award
----
+Freshman Self-made Software Contest, Top Award  
+Smart Application Contest, Grand Award
+  
+---- 
 
 ### Stacks
 
@@ -101,9 +95,8 @@
 * Mobile App Development
 * Discrete Mathematics
 * Introduction to Engineering Design  -->
-
- </div>
----
+ 
+----
 
 ### Stats
 
@@ -139,8 +132,9 @@
       height="300"
     />
 </a>
-
+    
 ![Counter](https://komarev.com/ghpvc/?username=callein&style=flat-square&label=Profile%20Views)
+</div>
 
 <br>
 <!-- Footer banner -->
