@@ -102,18 +102,11 @@
 * Discrete Mathematics
 * Introduction to Engineering Design  -->
 
-
----
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/callein"
-      width="600"
-      height="300"
-    />
-  </a>
  </div>
+---
 
-<h2 align="center">🦋 Stats 🦋</h2>
+### Stats
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -128,16 +121,24 @@
 
 ---
 <!-- <div align="center"> -->
-### Github stats
+<!--### Github stats 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=callein&show_icons=true&theme=default&hide_border=false&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=callein&show_icons=true&theme=default&hide_border=false&locale=en)  -->
 
 <!-- <div align="center"> -->
-### Most Common Languages
+<!-- ### Most Common Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact)
 
----
+--- -->
+
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/callein"
+      width="600"
+      height="300"
+    />
+</a>
 
 ![Counter](https://komarev.com/ghpvc/?username=callein&style=flat-square&label=Profile%20Views)
 
