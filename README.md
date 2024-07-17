@@ -7,10 +7,13 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+🌊" alt="Typing SVG" /></a>
 <br>
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitor+0+🌊" alt="Typing SVG" />
-</a>
+</a> -->
 
+<!-- <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+0+🌊" alt="Typing SVG" />
+</a> --> 
 
 ----
 
@@ -129,14 +132,17 @@ Smart Application Contest, Grand Award
     <img
       src="https://render.gitanimals.org/farms/callein"
       width="600"
-      height="300"
+      height=""
     />
 </a>
+</div>
+
+<!-- <br> -->
+<!-- Footer banner -->
+<div align=right>
+
+![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd)
 
 </div>
 
-<br>
-<!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eb592,10:93d9bd,30:5eb592,75:2f8f67,100:136342&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
-<!--  ![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd) -->

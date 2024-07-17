@@ -17,13 +17,15 @@ jobs:
       - name: Fetch visitor count
         id: fetch_count
         run: |
-          count=$(curl -s 'https://komarev.com/ghpvc/?username=callein&style=flat-square&label=Profile%20Views' | grep -oP '(?<=<text x="90.2" y="14">)[^<]+')
+          count=$(curl -s 'https://komarev.com/ghpvc/?username=cal&style=flat-square&label=Profile%20Views' | grep -oP '(?<=<text x="90.2" y="14">)[0-9]+')
+          echo "Visitor count: $count"
           echo "::set-output name=count::$count"
 
       - name: Update README
         run: |
           count=${{ steps.fetch_count.outputs.count }}
-          sed -i "s/Hi visitor [0-9]\+/Hi visitor $count/" README.md
+          echo "Updating README with visitor count: $count"
+          sed -i "s/Hi visitors [0-9]\+/Hi visitors $count/" README.md
 
       - name: Commit changes
         run: |
