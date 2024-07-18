@@ -1,36 +1,36 @@
-name: Update Visitor Count
+# name: Update Visitor Count
 
-on:
-  schedule:
-    - cron: '0 * * * *' # 매 시간마다 실행
-  push:
-    branches:
-      - main
+# on:
+#   schedule:
+#     - cron: '0 * * * *' # 매 시간마다 실행
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out the repository
-        uses: actions/checkout@v2
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Check out the repository
+#         uses: actions/checkout@v2
 
-      - name: Fetch visitor count
-        id: fetch_count
-        run: |
-          count=$(curl -s 'https://komarev.com/ghpvc/?username=cal&style=flat-square&label=Profile%20Views' | grep -oP '(?<=<text x="90.2" y="14">)[0-9]+')
-          echo "Visitor count: $count"
-          echo "::set-output name=count::$count"
+#       - name: Fetch visitor count
+#         id: fetch_count
+#         run: |
+#           count=$(curl -s 'https://komarev.com/ghpvc/?username=cal&style=flat-square&label=Profile%20Views' | grep -oP '(?<=<text x="90.2" y="14">)[0-9]+')
+#           echo "Visitor count: $count"
+#           echo "::set-output name=count::$count"
 
-      - name: Update README
-        run: |
-          count=${{ steps.fetch_count.outputs.count }}
-          echo "Updating README with visitor count: $count"
-          sed -i "s/Hi visitors [0-9]\+/Hi visitors $count/" README.md
+#       - name: Update README
+#         run: |
+#           count=${{ steps.fetch_count.outputs.count }}
+#           echo "Updating README with visitor count: $count"
+#           sed -i "s/Hi visitors [0-9]\+/Hi visitors $count/" README.md
 
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update visitor count to ${{ steps.fetch_count.outputs.count }}"
-          git push
+#       - name: Commit changes
+#         run: |
+#           git config --global user.name 'github-actions[bot]'
+#           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+#           git add README.md
+#           git commit -m "Update visitor count to ${{ steps.fetch_count.outputs.count }}"
+#           git push
