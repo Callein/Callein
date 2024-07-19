@@ -34,17 +34,24 @@
 
 ### Education
 
-[Handong Grobal Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) - AI computer science (2020.3. ~ Present)  
+| **Institution**                                                                            | **Major**   | **Duration**                  |
+|--------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|
+| DaeDong High School, Busan                                                                  |      Natural Sciences        | 2017.3. ~ 2020.2.             |
+| [Handong Global Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) | AI computer science | 2020.3. ~ Present             |
 
-DaeDong High School, Busan (2017.3. ~ 2020.2.)
 
 ----
 
     
 ### Awards
 
-Freshman Self-made Software Contest, Top Award  
-Smart Application Contest, Grand Award
+| **Award Name**                             | **Award Level**      | **Date**   |
+|--------------------------------------------|----------------------|------------|
+| Freshman Software Contest                  | Top Award            | 2020.DEC   |
+| C Programming Contest                      | Top Award            | 2020.DEC   |
+| Smart Application Contest                  | Grand Award          | 2021.DEC   |
+| 2024 COSS sLLM Camp                        | Excellence Award     | 2024.JUL   |
+
   
 ---- 
 
