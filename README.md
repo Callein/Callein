@@ -15,8 +15,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+0+🌊" alt="Typing SVG" />
 </a> --> 
 
-----
-
 
 <!-- ### Find Me
 
@@ -29,8 +27,20 @@
 <a href="https://velog.io/@somy-john">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=81C147&logo=Velog&logoColor=20C997&label="/>
 </a>
+-->
+---- 
 
---- -->
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/callein"
+      width="600"
+      height=""
+    />
+</a>
+</div>
+
+---- 
 
 ### Education
 
@@ -39,10 +49,8 @@
 | DaeDong High School, Busan                                                                  |      Natural Sciences        | 2017.3. ~ 2020.2.             |
 | [Handong Global Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) | AI computer science | 2020.3. ~ Present             |
 
+---- 
 
-----
-
-    
 ### Awards
 
 | **Award Name**                             | **Award Level**      | **Date**   |
@@ -123,8 +131,14 @@
   <!-- <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=callein&count_private=true&show_icons=true&rank_icon=github&border_radius=14&hide_border=true&theme=" alt="readme stats" /> -->
 </div>
 
+<div align=right>
+
+![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd)
+
+</div>
+
 ---
-<!-- <div align="center"> -->
+
 <!--### Github stats 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=callein&show_icons=true&theme=default&hide_border=false&locale=en)  -->
@@ -135,21 +149,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact)
 
 --- -->
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/callein"
-      width="600"
-      height=""
-    />
-</a>
-</div>
 
 <!-- <br> -->
 <!-- Footer banner -->
-<div align=right>
 
-![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eb592,10:93d9bd,30:5eb592,75:2f8f67,100:136342&height=40&section=footer&text=&fontSize=0" width="100%"/>
