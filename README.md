@@ -44,10 +44,16 @@
 
 ### Education
 
-| **Institution**                                                                            | **Major**   | **Duration**                  |
-|--------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|
-| DaeDong High School, Busan                                                                  |      Natural Sciences        | 2017.3. ~ 2020.2.             |
-| [Handong Global Univ. Computer Science](https://www.handong.edu/major/college/computer-electric/intro/) | AI computer science | 2020.3. ~ Present             |
+| **Institution**            | **Major**              | **Duration**                  |
+|----------------------------|------------------------|-------------------------------|
+| DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
+| Handong Global Univ.       | AI computer science    | 2020.MAR. ~ Present             |
+
+<!-- [Handong Global Univ.](https://www.handong.edu/major/college/computer-electric/intro/) -->
+
+| **Conferense**              | **Topic**       | **Duration**                  |
+|-----------------------------|-----------------|-------------------------------|
+| COSS sLLM Summer Camp       |      sLLM       | 2024.DEC                      |
 
 ---- 
 
