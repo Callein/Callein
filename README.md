@@ -100,13 +100,14 @@
 </p>
 
 ###### Etc.
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,aws,figma,obsidian" />
+<p align="center" style="text-decoration:none;">
+  <a href="https://skillicons.dev"  style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=firebase,aws,figma,obsidian,docker" style="text-decoration:none;" />
   </a>
+    <img src="https://github.com/user-attachments/assets/daeb74b7-4cbf-4010-bebc-03b77e09fba9" style="width:49px;height:49px;text-decoration:none;"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/5c725c0c-0aa2-4857-b760-477c890e3e74)
+
 
 <!-- --- -->
 
