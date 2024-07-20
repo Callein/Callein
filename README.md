@@ -69,7 +69,7 @@
   
 ---- 
 
-### Stacks
+### Stacks that I used
 
 ###### Langauges
 <p align="center">
@@ -81,7 +81,7 @@
 ###### Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,spring,django,fastapi,pytorch" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,spring,django,fastapi,pytorch,langchain" />
   </a>
 </p>
 
@@ -105,6 +105,8 @@
     <img src="https://skillicons.dev/icons?i=docker,firebase,aws,figma,obsidian" />
   </a>
 </p>
+
+![image](https://github.com/user-attachments/assets/5c725c0c-0aa2-4857-b760-477c890e3e74)
 
 <!-- --- -->
 
