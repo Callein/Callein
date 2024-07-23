@@ -51,10 +51,10 @@
 
 <!-- [Handong Global Univ.](https://www.handong.edu/major/college/computer-electric/intro/) -->
 
-| **Conferense**              | **Topic**       | **Duration**                  |
+<!-- | **Conferense**              | **Topic**       | **Duration**                  |
 |-----------------------------|-----------------|-------------------------------|
-| COSS sLLM Summer Camp       |      sLLM       | 2024.DEC                      |
-
+| COSS sLLM      |      sLLM       | 2024.DEC                      |
+-->
 ---- 
 
 ### Awards
@@ -64,7 +64,7 @@
 | Freshman Software Contest                  | Top Award            | 2020.DEC   |
 | C Programming Contest                      | Top Award            | 2020.DEC   |
 | Smart Application Contest                  | Grand Award          | 2021.DEC   |
-| 2024 COSS sLLM Camp                        | Excellence Award     | 2024.JUL   |
+| 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |
 
   
 ---- 
