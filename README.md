@@ -142,7 +142,10 @@
 
 <div align=right>
 
-![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd)
+<!-- ![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd) -->
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
+</div>
 
 </div>
 
