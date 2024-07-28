@@ -30,7 +30,10 @@
 -->
 ---- 
 
+
 <div align="center">
+
+
 <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/callein"
@@ -140,16 +143,19 @@
   <!-- <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=callein&count_private=true&show_icons=true&rank_icon=github&border_radius=14&hide_border=true&theme=" alt="readme stats" /> -->
 </div>
 
-<div align=right>
+</br>
+ <!-- <center><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=callein&theme=onedark&margin-w=15&theme=dark_lover&no-frame=true&title=PR,Commit,Repo,Experience,MultiLanguage,Joined2020" alt="" align="center" /> <p/> </center> -->
 
 <!-- ![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd) -->
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
 </div>
 
-</div>
-
 ---
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=callein)](https://github.com/ryo-ma/github-profile-trophy) 
+![trophy](https://github-profile-trophy.vercel.app/?username=callein&theme=onedark&margin-w=15&theme=dark_lover&no-frame=true&title=PR,Commit,Repo,Experience,MultiLanguage,Joined2020)
+-->
 
 <!--### Github stats 
 
