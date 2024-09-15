@@ -77,7 +77,7 @@
 ###### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,dart" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,dart" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
 ###### Etc.
 <p align="center" style="text-decoration:none;">
   <a href="https://skillicons.dev"  style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=firebase,aws,figma,obsidian,docker" style="text-decoration:none;" />
+    <img src="https://skillicons.dev/icons?i=firebase,aws,figma,docker" style="text-decoration:none;" />
   </a>
     <img src="https://github.com/user-attachments/assets/daeb74b7-4cbf-4010-bebc-03b77e09fba9" style="width:49px;height:49px;text-decoration:none;"/>
 </p>
