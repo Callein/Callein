@@ -134,12 +134,13 @@
 ### Stats
 <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=13&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
 <br>
-<div align=center>
+ <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" alt="streak stats"/>
-  <a href="https://solved.ac/wjsthaud/">
+  <!--<a href="https://solved.ac/wjsthaud/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsthaud" width=359 height=153 alt="Solved.ac Profile">
   </a>
   <!-- <br/> -->
+  
   <!-- <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=callein&count_private=true&show_icons=true&rank_icon=github&border_radius=14&hide_border=true&theme=" alt="readme stats" /> -->
 </div>
 
