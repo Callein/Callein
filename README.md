@@ -68,6 +68,8 @@
 | C Programming Contest                      | Top Award            | 2020.DEC   |
 | Smart Application Contest                  | Grand Award          | 2021.DEC   |
 | 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |
+| Smart Application Contest                  | Grand Award          | 2024.NOV   |
+| Smart Application Contest                  | Excellence Award     | 2024.NOV   |
 
   
 ---- 
