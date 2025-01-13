@@ -87,7 +87,7 @@
 ###### Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,spring,django,fastapi,pytorch,langchain" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,spring,django,fastapi,pytorch,langchain,selenium" />
   </a>
 </p>
 
