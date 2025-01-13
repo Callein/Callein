@@ -62,15 +62,15 @@
 
 ### Awards
 
-| **Award Name**                             | **Award Level**      | **Date**   |
-|--------------------------------------------|----------------------|------------|
-| Freshman Software Contest                  | Top Award            | 2020.DEC   |
-| C Programming Contest                      | Top Award            | 2020.DEC   |
-| Smart Application Contest                  | Grand Award          | 2021.DEC   |
-| 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |
-| Smart Application Contest                  | Grand Award          | 2024.NOV   |
-| Smart Application Contest                  | Excellence Award     | 2024.NOV   |
-| 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |
+| **Award Name**                             | **Award Level**      | **Date**   | **Issued by** |
+|--------------------------------------------|----------------------|------------|---------------|
+| Freshman Software Contest                  | Top Award            | 2020.DEC   |      HGU      |
+| C Programming Contest                      | Top Award            | 2020.DEC   |      HGU      |
+| Smart Application Contest                  | Grand Award          | 2021.DEC   |      HGU      |
+| 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |     COSS      |
+| Smart Application Contest                  | Grand Award          | 2024.NOV   |      HGU      |
+| Smart Application Contest                  | Excellence Award     | 2024.NOV   |      HGU      |
+| 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
 
   
 ---- 
