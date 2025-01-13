@@ -70,6 +70,7 @@
 | 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |
 | Smart Application Contest                  | Grand Award          | 2024.NOV   |
 | Smart Application Contest                  | Excellence Award     | 2024.NOV   |
+| 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |
 
   
 ---- 
