@@ -80,7 +80,7 @@
 ###### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,dart" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp" />
   </a>
 </p>
 
