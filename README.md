@@ -138,7 +138,7 @@
 ### Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callein&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&hide=HTML,css,c&langs_count=8&layout=compact&theme=react&border_radius=13&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+<img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&hide=HTML,css,c,groovy&langs_count=8&layout=compact&theme=react&border_radius=13&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
 <br>
  <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" alt="streak stats"/>
