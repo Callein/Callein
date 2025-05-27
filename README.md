@@ -81,14 +81,14 @@
 ###### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,dart" />
   </a>
 </p>
 
 ###### Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,spring,django,fastapi,pytorch,langchain,selenium" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,springboot,django,fastapi,pytorch,langchain,selenium" />
   </a>
 </p>
 
