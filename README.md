@@ -50,7 +50,7 @@
 | **Institution**            | **Major**              | **Duration**                  |
 |----------------------------|------------------------|-------------------------------|
 | DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
-| Handong Global Univ.       | AI computer science    | 2020.MAR. ~ Present             |
+| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
 | LeTourneau University, TX, USA | Computer Science (Exchange Program) | 2025.AUG. ~ 2025.DEC. |
 
 <!-- [Handong Global Univ.](https://www.handong.edu/major/college/computer-electric/intro/) -->
