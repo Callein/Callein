@@ -73,8 +73,13 @@
 | Smart Application Contest                  | Excellence Award     | 2024.NOV   |      HGU      |
 | 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
 
-  
----- 
+---
+### Honors & Scholarships
+
+| **Title**                                                           | **Date**   | **Issued by** |
+|----------------------------------------------------------------------|------------|---------------|
+| 3rd Korea-U.S. Student Exchange Program in the field of high-tech industry | 2025.JUN   | Minister of Trade, Industry and Energy (MOTIE) |
+----  
 
 ### Stacks that I used
 
