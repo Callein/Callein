@@ -35,14 +35,13 @@
 <div align="center">
 
 
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/callein"
-      width="600"
-      height=""
-    />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Callein&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Callein"
+  width="600"
+  height="300"
+/>
 </a>
-</div>
 
 ---- 
 
