@@ -72,6 +72,7 @@
 | Smart Application Contest                  | Grand Award          | 2024.NOV   |      HGU      |
 | Smart Application Contest                  | Excellence Award     | 2024.NOV   |      HGU      |
 | 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
+| 2025 Capstone Festival                     | Top Award            | 2025.MAY   |      HGU      |
 
 ---
 ### Honors & Scholarships
