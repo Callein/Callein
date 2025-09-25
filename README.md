@@ -45,7 +45,7 @@
 
 ---- 
 
-### Education
+### 🎓 Education
 
 | **Institution**            | **Major**              | **Duration**                  |
 |----------------------------|------------------------|-------------------------------|
@@ -55,7 +55,21 @@
 
 ---- 
 
-### Awards
+
+### 📂 Featured Repositories
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **RAGvertise** | AI-powered ad-agency recommendation platform, officially certified by KTL (ISO/IEC 17025). Achieved 2.66s latency & ROUGE-1 F1 0.91. | FastAPI · MySQL · React/Vite · FAISS | [🔗 Repo](https://github.com/Callein/ragvertise) |
+| **CMS (Backend API)** | Team project: Built Spring Boot + MariaDB backend for multi-type content & user management. Integrated MinIO & RabbitMQ. | Spring Boot · MariaDB · RabbitMQ · MinIO | [🔗 Repo](https://github.com/Callein/CMS) |
+| **CMS-Transcode-Worker** | Independent project: Python Celery worker for video transcoding (FFmpeg). Enabled HLS conversion & real-time updates. | Python · Celery · FFmpeg · Redis | [🔗 Repo](https://github.com/Callein/cms-transcode-worker) |
+| **Handong Feed App** | Team project: Backend API for unified student feed (likes, sharing, history). Designed deduplication & personalized feed logic. | Spring Boot · MySQL · Docker | [🔗 Repo](https://github.com/handong-app/handong-feed-app) |
+| **Handong Feed Spotlight** | Independent project: LLM-based tag classification service with failure logging & retry logic. | FastAPI · Gemini/Ollama · GitHub Actions | [🔗 Repo](https://github.com/handong-app/handong-feed-spotlight) |
+| **Handong Feed Validator** | Independent project: Duplicate detection service with TF-IDF + Annoy index, exposed via FastAPI API. | FastAPI · TF-IDF · Annoy | [🔗 Repo](https://github.com/handong-app/handong-feed-validator) |
+
+----
+
+### 🏆 Awards
 
 | **Award Name**                             | **Award Level**      | **Date**   | **Issued by** |
 |--------------------------------------------|----------------------|------------|---------------|
@@ -70,7 +84,7 @@
 
 ---
 
-### Certifications
+### 🪪 Certifications
 
 | **Certification** | **Date** | **Issued by** | **Details** |
 |-------------------|----------|---------------|-------------|
@@ -78,7 +92,7 @@
 | **TOPCIT Level 3 (top 15–20%, 607/1000)** | 2025.MAY | Institute for Information & Communications Technology Promotion (IITP) | National competency assessment for IT/software professionals |
 
 ---
-### Honors & Scholarships
+### 🎖️ Honors & Scholarships
 
 | **Title**                                                           | **Date**   | **Issued by** |
 |----------------------------------------------------------------------|------------|---------------|
@@ -86,7 +100,7 @@
 
 ----  
 
-### Stacks that I used
+### 🛠️ Stacks that I used
 
 ###### Langauges
 <p align="center">
