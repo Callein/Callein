@@ -49,30 +49,33 @@
 
 | **Institution**            | **Major**              | **Duration**                  |
 |----------------------------|------------------------|-------------------------------|
-| DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
-| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
 | LeTourneau University, TX, USA | Computer Science (Exchange Program) | 2025.AUG. ~ 2025.DEC. |
+| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
+| DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
 
-<!-- [Handong Global Univ.](https://www.handong.edu/major/college/computer-electric/intro/) -->
-
-<!-- | **Conferense**              | **Topic**       | **Duration**                  |
-|-----------------------------|-----------------|-------------------------------|
-| COSS sLLM      |      sLLM       | 2024.DEC                      |
--->
 ---- 
 
 ### Awards
 
 | **Award Name**                             | **Award Level**      | **Date**   | **Issued by** |
 |--------------------------------------------|----------------------|------------|---------------|
-| Freshman Software Contest                  | Top Award            | 2020.DEC   |      HGU      |
-| C Programming Contest                      | Top Award            | 2020.DEC   |      HGU      |
-| Smart Application Contest                  | Grand Award          | 2021.DEC   |      HGU      |
-| 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |     COSS      |
+| 2025 Capstone Festival                     | Top Award            | 2025.MAY   |      HGU      |
+| 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
 | Smart Application Contest                  | Grand Award          | 2024.NOV   |      HGU      |
 | Smart Application Contest                  | Excellence Award     | 2024.NOV   |      HGU      |
-| 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
-| 2025 Capstone Festival                     | Top Award            | 2025.MAY   |      HGU      |
+| 2024 COSS sLLM                             | Excellence Award     | 2024.JUL   |     COSS      |
+| Smart Application Contest                  | Grand Award          | 2021.DEC   |      HGU      |
+| C Programming Contest                      | Top Award            | 2020.DEC   |      HGU      |
+| Freshman Software Contest                  | Top Award            | 2020.DEC   |      HGU      |
+
+---
+
+### Certifications
+
+| **Certification** | **Date** | **Issued by** | **Details** |
+|-------------------|----------|---------------|-------------|
+| [![KTL Certified](https://img.shields.io/badge/KTL-Certified-success)](https://github.com/Callein/ragvertise_prototype#6️⃣-ktl-시험-성적-요약)<br>**KTL Software Performance Test Report – AI System** | 2025.AUG | Korea Testing Laboratory (KTL) | Report No. 25-054618-01-1<br>[![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-blue)](https://en.wikipedia.org/wiki/ISO/IEC_17025) |
+| **TOPCIT Level 3 (top 15–20%, 607/1000)** | 2025.MAY | Institute for Information & Communications Technology Promotion (IITP) | National competency assessment for IT/software professionals |
 
 ---
 ### Honors & Scholarships
@@ -80,6 +83,7 @@
 | **Title**                                                           | **Date**   | **Issued by** |
 |----------------------------------------------------------------------|------------|---------------|
 | 3rd Korea-U.S. Student Exchange Program in the field of high-tech industry | 2025.JUN   | Minister of Trade, Industry and Energy (MOTIE) |
+
 ----  
 
 ### Stacks that I used
