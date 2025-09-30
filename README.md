@@ -2,14 +2,12 @@
 <a id="readme-top"></a>
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:196E4B,10:2f8f67,30:5eb592,75:93d9bd,100:2f8f67&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
 
 <!-- Title Typing Effect -->
 <p align="center">
-  <img src="./aseets/ascii_typing_cycle_yellow_green_blue_transparent.gif" alt="ascii typing animation" />
+  <img src="./aseets/ascii_typing_cycle_yellow_green_blue_hidpi.gif" alt="ascii typing animation" />
 </p>
 
-<br>
 <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitor+0+🌊" alt="Typing SVG" />
 </a> -->
