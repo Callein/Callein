@@ -5,7 +5,9 @@
 <br><br>
 
 <!-- Title Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitors+🌊)](https://git.io/typing-svg)
+<p align="center">
+  <img src="./aseets/ascii_typing_cycle_yellow_green_blue_transparent.gif" alt="ascii typing animation" />
+</p>
 
 <br>
 <!-- <a href="https://git.io/typing-svg">
