@@ -73,7 +73,7 @@
 
 | **Award Name**                             | **Award Level**      | **Date**   | **Issued by** |
 |--------------------------------------------|----------------------|------------|---------------|
-| 2025 Capstone Festival                     | Top Award            | 2025.MAY   |      HGU      |
+| 2025 Capstone Festival                     | Excellence Award     | 2025.MAY   |      HGU      |
 | 2025 COSS JBNU Olympiad                    | Top Award            | 2025.JAN   |     COSS      |
 | Smart Application Contest                  | Grand Award          | 2024.NOV   |      HGU      |
 | Smart Application Contest                  | Excellence Award     | 2024.NOV   |      HGU      |
