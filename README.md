@@ -8,6 +8,13 @@
   <img src="./aseets/ascii_typing_cycle_yellow_green_blue_hidpi.gif" alt="ascii typing animation" />
 </p>
 
+### 👋 Hi there, I'm Somyeong Jeon.
+
+I’m a backend engineer who believes that **reliability is the ultimate feature**.<br>
+I don't just write code that works; I find genuine joy in **digging deep** to make systems more efficient and stable.
+<br>
+
+
 <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Wittgenstein&size=40&duration=3000&pause=2300&color=73c9a7&center=true&random=false&height=80&lines=🌊+Hi+visitor+0+🌊" alt="Typing SVG" />
 </a> -->
@@ -29,30 +36,6 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=81C147&logo=Velog&logoColor=20C997&label="/>
 </a>
 -->
----- 
-
-
-<div align="center">
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Callein&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Callein"
-  width="600"
-  height="300"
-/>
-</a>
-
----- 
-
-### 🎓 Education
-
-| **Institution**            | **Major**              | **Duration**                  |
-|----------------------------|------------------------|-------------------------------|
-| LeTourneau University, TX, USA | Computer Science (Exchange Program) | 2025.AUG. ~ 2025.DEC. |
-| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
-| DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
-
 ---- 
 
 
@@ -98,6 +81,17 @@
 |----------------------------------------------------------------------|------------|---------------|
 | 3rd Korea-U.S. Student Exchange Program in the field of high-tech industry | 2025.JUN   | Minister of Trade, Industry and Energy (MOTIE) |
 
+---- 
+
+### 🎓 Education
+
+| **Institution**            | **Major**              | **Duration**                  |
+|----------------------------|------------------------|-------------------------------|
+| LeTourneau University, TX, USA | Computer Science (Exchange Program) | 2025.AUG. ~ 2025.DEC. |
+| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
+| DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
+
+
 ----  
 
 ### 🛠️ Tech Stack
@@ -136,6 +130,14 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" height="165" alt="Current Streak" />
 </div>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Callein&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Callein"
+  width="1000"
+  height="1000"
+/>
+</a>
+
   <!--<a href="https://solved.ac/wjsthaud/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsthaud" width=359 height=153 alt="Solved.ac Profile">
   </a>
@@ -152,7 +154,6 @@
   <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
 </div>
 
----
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=callein)](https://github.com/ryo-ma/github-profile-trophy) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=callein&theme=onedark&margin-w=15&theme=dark_lover&no-frame=true&title=PR,Commit,Repo,Experience,MultiLanguage,Joined2020)
@@ -169,7 +170,7 @@
 
 --- -->
 
-<!-- <br> -->
+
 <!-- Footer banner -->
 
 
