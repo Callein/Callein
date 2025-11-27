@@ -58,15 +58,14 @@
 
 ### 📂 Featured Repositories
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **RAGvertise** | AI-powered ad-agency recommendation platform, officially certified by KTL (ISO/IEC 17025). Achieved 2.66s latency & ROUGE-1 F1 0.91. | FastAPI · MySQL · React/Vite · FAISS | [🔗 Repo](https://github.com/Callein/ragvertise) |
-| **CMS (Backend API)** | Team project: Built Spring Boot + MariaDB backend for multi-type content & user management. Integrated MinIO & RabbitMQ. | Spring Boot · MariaDB · RabbitMQ · MinIO | [🔗 Repo](https://github.com/handong-app/CMS) |
-| **CMS-Transcode-Worker** | Independent project: Python Celery worker for video transcoding (FFmpeg). Enabled HLS conversion & real-time updates. | Python · Celery · FFmpeg · Redis | [🔗 Repo](https://github.com/handong-app/cms-transcode-worker) |
-| **Handong Feed App** | Team project: Backend API for unified student feed (likes, sharing, history). Designed deduplication & personalized feed logic. | Spring Boot · MySQL · Docker | [🔗 Repo](https://github.com/handong-app/handong-feed-app) |
-| **Handong Feed Spotlight** | Independent project: LLM-based tag classification service with failure logging & retry logic. | FastAPI · Gemini/Ollama · GitHub Actions | [🔗 Repo](https://github.com/handong-app/handong-feed-spotlight) |
-| **Handong Feed Validator** | Independent project: Duplicate detection service with TF-IDF + Annoy index, exposed via FastAPI API. | FastAPI · TF-IDF · Annoy | [🔗 Repo](https://github.com/handong-app/handong-feed-validator) |
-
+| Project | Engineering & Impact | Tech Stack | Link |
+|:---:|:---|:---|:---:|
+| [![KTL Certified](https://img.shields.io/badge/KTL_Certified-ISO%2FIEC_17025-2ea44f?style=flat-square)](https://github.com/Callein/ragvertise?tab=readme-ov-file#6%EF%B8%8F%E2%83%A3-ktl-test-certification)<br>**RAGvertise** | **KTL Certified** AI Ad-Agency Recommendation Engine. Optimized with **Weighted Late Fusion** to achieve **0.25s latency** & **75% cost reduction**. | FastAPI · FAISS · E5/fastText · React | [🔗 Repo](https://github.com/Callein/ragvertise) |
+| ![Excellence Award](https://img.shields.io/badge/HGU_Contest-Excellence_Award-4682B4?style=flat-square)<br>**CMS**<br>**(Core API)** | Designed **Event-Driven Architecture (EDA)** using RabbitMQ for high availability & **Fault Tolerance**. Implemented **Atomic Orphan Removal** for data integrity. | Spring Boot · MariaDB · RabbitMQ · MinIO · k8s | [🔗 Repo](https://github.com/handong-app/CMS) |
+| ![Excellence Award](https://img.shields.io/badge/HGU_Contest-Excellence_Award-4682B4?style=flat-square)<br>**CMS**<br>**Transcode Worker** | Async media processing engine. Implemented **Single-Pass Encoding** to reduce **Disk I/O by 50%**. Enabled **HLS dynamic parsing** & secure streaming. | Python · Celery · FFmpeg · RabbitMQ | [🔗 Repo](https://github.com/handong-app/cms-transcode-worker) |
+| ![Grand Award](https://img.shields.io/badge/HGU_Contest-Grand_Award-FFD700?style=flat-square)<br>**Handong Feed**<br>**Platform** | MSA-based curation service. Adopted **Polyglot** & **Hybrid ORM** strategy for resource efficiency. Secured with **RBAC** & API Gateway pattern. | Spring Boot · MySQL · Docker · Infisical | [🔗 Repo](https://github.com/handong-app/handong-feed-app) |
+| ![Grand Award](https://img.shields.io/badge/HGU_Contest-Grand_Award-FFD700?style=flat-square)<br>**HFeed**<br>**Spotlight** | Serverless AI pipeline. Built **PII Masking** (KoELECTRA) & **Fault Tolerance** logic with auto-retry mechanism. Achieved **87% tagging accuracy**. | FastAPI · Gemini/Ollama · GitHub Actions | [🔗 Repo](https://github.com/handong-app/handong-feed-spotlight) |
+| ![Grand Award](https://img.shields.io/badge/HGU_Contest-Grand_Award-FFD700?style=flat-square)<br>**HFeed**<br>**Validator** | Deduplication service using **TF-IDF/Annoy**. Achieved **70% data compression** with **0.9s real-time classification**. | FastAPI · TF-IDF · Annoy · Scikit-learn | [🔗 Repo](https://github.com/handong-app/handong-feed-validator) |
 ----
 
 ### 🏆 Awards
@@ -89,7 +88,7 @@
 
 | **Certification** | **Date** | **Issued by** | **Details** |
 |-------------------|----------|---------------|-------------|
-| [![KTL Certified](https://img.shields.io/badge/KTL-Certified-success)](https://github.com/Callein/ragvertise?tab=readme-ov-file#6%EF%B8%8F%E2%83%A3-ktl-test-certification)<br>**KTL Software Performance Test Report – AI System** | 2025.AUG | Korea Testing Laboratory (KTL) | Report No. 25-054618-01-1<br>[![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-blue)](https://en.wikipedia.org/wiki/ISO/IEC_17025) |
+| **KTL Software Performance Test Report – AI System** | 2025.AUG | Korea Testing Laboratory (KTL) | Report No. 25-054618-01-1<br>[![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-blue)](https://en.wikipedia.org/wiki/ISO/IEC_17025) |
 | **TOPCIT Level 3 (top 15–20%, 607/1000)** | 2025.MAY | Institute for Information & Communications Technology Promotion (IITP) | National competency assessment for IT/software professionals |
 
 ---
