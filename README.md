@@ -128,14 +128,13 @@
  
 ----
 
-### Stats
+### 🦾 Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callein&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&hide=HTML,css,c,groovy&langs_count=8&layout=compact&theme=react&border_radius=13&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
-<br>
- <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" alt="streak stats"/>
-     <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact&theme=react&hide_border=true&border_radius=14&count_private=true" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" height="165" alt="Current Streak" />
+</div>
 
   <!--<a href="https://solved.ac/wjsthaud/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsthaud" width=359 height=153 alt="Solved.ac Profile">
@@ -143,7 +142,7 @@
   <!-- <br/> -->
   
   <!-- <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=callein&count_private=true&show_icons=true&rank_icon=github&border_radius=14&hide_border=true&theme=" alt="readme stats" /> -->
-</div>
+
 
 </br>
  <!-- <center><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=callein&theme=onedark&margin-w=15&theme=dark_lover&no-frame=true&title=PR,Commit,Repo,Experience,MultiLanguage,Joined2020" alt="" align="center" /> <p/> </center> -->
