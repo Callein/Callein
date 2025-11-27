@@ -100,47 +100,15 @@
 
 ----  
 
-### 🛠️ Stacks that I used
+### 🛠️ Tech Stack
 
-###### Langauges
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,dart" />
-  </a>
-</p>
-
-###### Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,spring,django,fastapi,pytorch,langchain,selenium" />
-  </a>
-</p>
-
-###### DB
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
-</p>
-
-###### IDE
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,androidstudio" />
-  </a>
-</p>
-
-###### Etc.
-<p align="center" style="text-decoration:none;">
-<!--   <a href="https://skillicons.dev"  style="text-decoration:none;"> -->
-    <img src="https://skillicons.dev/icons?i=firebase,aws,figma,docker" style="text-decoration:none;" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=puppeteer" />
-<!--   </a> -->
-    <img src="https://github.com/user-attachments/assets/daeb74b7-4cbf-4010-bebc-03b77e09fba9" style="width:49px;height:49px;text-decoration:none;"/>
-</p>
-
-
-
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js" /> |
+| **Backend & AI** | <img src="https://skillicons.dev/icons?i=spring,fastapi,django,nodejs,pytorch,selenium" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=puppeteer" height="50" /> |
+| **Database** |  <img src="https://cdn.simpleicons.org/mariadb" height="50" alt="MariaDB" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,redis" />|
+| **DevOps & Infra** | <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,rabbitmq,aws,linux,nginx" /> |
+| **Tools** | <img src="https://cdn.simpleicons.org/bruno" height="50" alt="Bruno"/> &nbsp;<img src="https://skillicons.dev/icons?i=postman,idea,pycharm,vscode,figma" /> |
 <!-- --- -->
 
 <!-- ### Course Taken
@@ -167,6 +135,8 @@
 <br>
  <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" alt="streak stats"/>
+     <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
+
   <!--<a href="https://solved.ac/wjsthaud/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsthaud" width=359 height=153 alt="Solved.ac Profile">
   </a>
