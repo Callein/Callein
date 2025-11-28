@@ -7,8 +7,10 @@
 <p align="center">
   <img src="./aseets/ascii_typing_cycle_yellow_green_blue_hidpi.gif" alt="ascii typing animation" />
 </p>
-
-### 👋 Hi there, I'm Somyeong Jeon.
+<h2>
+  👋 Hi there,
+<a href="https://hits.sh/github.com/Callein/"><img alt="Hits" src="https://hits.sh/github.com/Callein.svg?label=You%20are%20the&extraCount=1891&color=ffffff"/></a>  th visitor.
+</h2>
 
 I’m a backend engineer who believes that **reliability is the ultimate feature**.<br>
 I don't just write code that works; I find genuine joy in **digging deep** to make systems more efficient and stable.
@@ -151,7 +153,7 @@ I don't just write code that works; I find genuine joy in **digging deep** to ma
 
 <!-- ![Counter](https://komarev.com/ghpvc/?username=callein&style=plastic&label=Hits&color=93d9bd) -->
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Callein&style=for-the-badge&color=93d9bd" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Callein&style=pixel&color=93d9bd" alt=""/>
 </div>
 
 
