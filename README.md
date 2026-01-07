@@ -12,9 +12,10 @@
 <a href="https://hits.sh/github.com/Callein/"><img alt="Hits" src="https://hits.sh/github.com/Callein.svg?label=You%20are%20the&extraCount=1891&color=ffffff"/></a>  th visitor.
 </h2>
 
-I’m a backend engineer who believes that **reliability is the ultimate feature**.<br>
-I don't just write code that works; I find genuine joy in **digging deep** to make systems more efficient and stable.
-<br>
+I’m a software engineer who believes that solving problems is the essence of development.  
+I don't just write code; I view technology as a tool to eliminate user pain points.   
+I find genuine joy in delivering tangible value that makes a real difference.
+<br>   
 
 
 <!-- <a href="https://git.io/typing-svg">
