@@ -128,10 +128,10 @@ I find genuine joy in delivering tangible value that makes a real difference.
 ### 🦾 Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callein&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callein&layout=compact&theme=react&hide_border=true&border_radius=14&count_private=true" height="165" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=callein&count_private=true&theme=react&border_radius=14&hide_border=true" height="165" alt="Current Streak" />
-</div>
+</div> -->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Callein&utm_content=farm">
 <img
