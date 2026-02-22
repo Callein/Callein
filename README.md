@@ -91,7 +91,7 @@ I find genuine joy in delivering tangible value that makes a real difference.
 | **Institution**            | **Major**              | **Duration**                  |
 |----------------------------|------------------------|-------------------------------|
 | LeTourneau University, TX, USA | Computer Science (Exchange Program) | 2025.AUG. ~ 2025.DEC. |
-| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ Present             |
+| Handong Global University, Pohang      | AI computer science    | 2020.MAR. ~ 2026.FEB.      |
 | DaeDong High School, Busan |    Natural Sciences    | 2017.MAR. ~ 2020.FEB.             |
 
 
