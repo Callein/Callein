@@ -14,7 +14,7 @@
 
 I’m a software engineer who believes that solving problems is the essence of development.   
 I find genuine joy in delivering tangible value that makes a real difference.   
-Currently @musinsa
+Currently working at **[Musinsa](https://www.musinsa.com)** 
 <br>   
 
 
